@@ -1,0 +1,11 @@
+# Set Up
+- Download Extension 
+- Go to Chromium Browser (Chrome, Brave, Edge, Opera GX)
+- Go to Extensions ex Chrome://extensions <-- for google chrome
+- Click Load unpacked
+- unzip folder/extension if its zipped
+- Click on extension folder
+- Go back to NextUp Desktop App > Settings > Settings section integrations > Generate browser pairing code > Copy Pairing code
+- Go to extensions and click on NextUp extension and enter Pairing code > click Pair with NextUp 
+- Click on Use this Youtube tab is you have a youtube tab opened
+- Play one video manually if your browser asks for interaction (NextUp only controls the current tab selected ADs and youtube Restrictions remain in effect)
